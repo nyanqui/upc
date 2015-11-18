@@ -1,0 +1,61 @@
+#facultades{
+	background: url('../images/DSC_8227.jpg');
+	width: 100%;
+	background-size: cover;
+	background-position: center;
+}
+
+.minh-140 {
+	height: 140px;
+}
+.bg-w{
+	background-color: white;
+}
+.bg-opacity {
+	background-color: rgba(0,0,0,0.9);
+
+}
+.sprite {
+    background-image: url(spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.red a{
+	    background-image: url("../images/color/admision5_15.png");
+}
+.sprite-github {
+    width: 30px;
+    height: 30px;
+    background-position: -5px -5px;
+}
+
+.sprite-gmail {
+    width: 30px;
+    height: 30px;
+    background-position: -45px -5px;
+}
+
+.sprite-linkedin {
+    width: 30px;
+    height: 30px;
+    background-position: -5px -45px;
+}
+
+.sprite-stackoverflow {
+    width: 30px;
+    height: 30px;
+    background-position: -45px -45px;
+}
+
+.sprite-tumblr {
+    width: 30px;
+    height: 30px;
+    background-position: -85px -5px;
+}
+
+.sprite-twitter {
+    width: 30px;
+    height: 30px;
+    background-position: -85px -45px;
+}
